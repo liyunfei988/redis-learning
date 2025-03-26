@@ -39,3 +39,5 @@ Redis keys 命令
 |14	| RENAME key newkey 修改 key 的名称                                                                                       |
 |15	| RENAMENX key newkey 仅当 newkey 不存在时，将 key 改名为 newkey 。                                                              |
 |16	| TYPE key 返回 key 所储存的值的类型。                                                                                          |
+![img_2.png](img_2.png)
+
